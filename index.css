@@ -269,9 +269,10 @@ section.container>form.flip>.front {
     left: 1.2em;
     height: 25em;
     padding: 0 10px 5px 10px;
-    font-size: 18px;
+    font-size: 21px;
     line-height: 1.2;
     -o-transition: .5s .5s;
+    font-weight: bold;
 }
 
 #letter .container {
